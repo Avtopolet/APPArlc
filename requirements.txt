@@ -1,5 +1,4 @@
-pyvisa
-time
+pyvisa == 1.13.0
 pandas 
 re
 numpy
