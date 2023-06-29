@@ -4,3 +4,4 @@ numpy
 IPython
 ipywidgets
 pyvisa-py
+zeroconf
